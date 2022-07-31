@@ -21,7 +21,8 @@ Here's a walkthrough of implemented features:
 
 
 
-https://user-images.githubusercontent.com/109637465/182008288-6e0dec63-1943-4206-b0f6-ae15204f615e.mp4
+https://user-images.githubusercontent.com/109637465/182008318-94ed3f97-d112-4ac1-bcd0-074352ff67f6.mp4
+
 
 
 
