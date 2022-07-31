@@ -31,7 +31,10 @@ GIF created with [Imgur](https://imgur.com/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1. The prework was a lot of fun.
+2. The video guide were well done and easy to follow.
+3. The only issue I had was in the submission of the gif to the readme. It failed to work everytime
+4. I went with an mp4 upload which works just fine.
 
 ## License
 
