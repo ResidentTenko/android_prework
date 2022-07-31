@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="fidel_intro">Hello World! My name is Fidel. I love anime and I am now discovering the wonderful world of Studio Ghibli.</string>
+    <string name="button_hello_text">Say Hello</string>
+    <string name="response_hello">Hello to you too!</string>
+</resources>
