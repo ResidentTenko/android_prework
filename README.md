@@ -19,7 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+https://user-images.githubusercontent.com/109637465/182008288-6e0dec63-1943-4206-b0f6-ae15204f615e.mp4
+
+
 
 Video created with [Nvidia GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)  
 GIF created with [Imgur](https://imgur.com/)  
